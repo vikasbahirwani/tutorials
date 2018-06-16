@@ -1,0 +1,13 @@
+name: tutorials
+channels:
+  - pytorch
+  - soumith
+  - peterjc123
+  - defaults
+dependencies:
+  - python>=3.4
+  - anaconda
+  - pytorch
+  - pip:
+    - msgpack
+    - torchvision
