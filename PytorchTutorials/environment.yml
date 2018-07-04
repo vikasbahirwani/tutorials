@@ -1,4 +1,4 @@
-name: tutorials
+name: PytorchTutorials
 channels:
   - pytorch
   - soumith
